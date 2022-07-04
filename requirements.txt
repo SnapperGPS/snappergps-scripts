@@ -1,0 +1,6 @@
+pymap3d
+numpy
+matplotlib
+sklearn
+scipy
+pyubx2==1.1.7
