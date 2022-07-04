@@ -25,6 +25,15 @@ Maybe they can serve as inspiration for your own post-processing scripts.
 
 `plot_temperature.py`
 
+`csv_to_html.py`
+
+Plot all SnapperGPS tracks in a folder on an HTML map.
+Map can be displayed in a browser.
+
+`trim_json.py`
+
+Trim raw SnapperGPS data to a time interval.
+
 ## Setup
 
 You need a version of Python 3 on your machine.

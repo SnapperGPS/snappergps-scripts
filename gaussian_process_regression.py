@@ -34,6 +34,10 @@ from scipy.spatial import ConvexHull
 # Set this to create a KML file
 create_kml = True
 
+# Enter directory with JSON files here
+files = glob.glob(os.path.join("", "*.json"))
+
+
 def _get_dist(e, n):
     return np.sum(np.linalg.norm(np.array([np.diff(e), np.diff(n)]), axis=0))
 
@@ -54,9 +58,6 @@ def _plot_gp(time, y, confidence, y_pred, sigma, x):
     plt.grid()
     plt.xlabel("time [s]")
 
-
-# Enter directory with JSON files here
-files = glob.glob(os.path.join("", "*.json"))
 
 for file in files:
 
