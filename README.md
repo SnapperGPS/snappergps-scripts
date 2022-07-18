@@ -25,6 +25,8 @@ Maybe they can serve as inspiration for your own post-processing scripts.
 
 `plot_temperature.py`
 
+Read a SnapperGPS JSON file and plot the temperature over time.
+
 `csv_to_html.py`
 
 Plot all SnapperGPS tracks in a folder on an HTML map.
