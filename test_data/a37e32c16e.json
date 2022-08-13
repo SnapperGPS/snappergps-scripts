@@ -1,0 +1,2711 @@
+[
+    {
+        "datetime": "2021-11-22T12:40:00.053Z",
+        "latitude": 51.7603,
+        "longitude": -1.257473,
+        "confidence": 19.958427,
+        "temperature": 7,
+        "battery": 4.13,
+        "id": 0
+    },
+    {
+        "datetime": "2021-11-22T12:40:01.045Z",
+        "latitude": 51.76028,
+        "longitude": -1.2574217,
+        "confidence": 22.92147,
+        "temperature": 7.3,
+        "battery": 4.13,
+        "id": 1
+    },
+    {
+        "datetime": "2021-11-22T12:40:02.054Z",
+        "latitude": 51.760387,
+        "longitude": -1.2571064,
+        "confidence": 26.180456,
+        "temperature": 7.3,
+        "battery": 4.13,
+        "id": 2
+    },
+    {
+        "datetime": "2021-11-22T12:40:03.063Z",
+        "latitude": 51.760193,
+        "longitude": -1.2573061,
+        "confidence": 27.267876,
+        "temperature": 7.2,
+        "battery": 4.13,
+        "id": 3
+    },
+    {
+        "datetime": "2021-11-22T12:40:04.044Z",
+        "latitude": 51.76013,
+        "longitude": -1.2574496,
+        "confidence": 32.173306,
+        "temperature": 7.2,
+        "battery": 4.13,
+        "id": 4
+    },
+    {
+        "datetime": "2021-11-22T12:40:05.047Z",
+        "latitude": 51.760147,
+        "longitude": -1.2574356,
+        "confidence": 26.180788,
+        "temperature": 7.5,
+        "battery": 4.13,
+        "id": 5
+    },
+    {
+        "datetime": "2021-11-22T12:40:06.044Z",
+        "latitude": 51.76022,
+        "longitude": -1.2574135,
+        "confidence": 23.790411,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 6
+    },
+    {
+        "datetime": "2021-11-22T12:40:07.033Z",
+        "latitude": 51.76018,
+        "longitude": -1.2575502,
+        "confidence": 22.71667,
+        "temperature": 7.2,
+        "battery": 4.13,
+        "id": 7
+    },
+    {
+        "datetime": "2021-11-22T12:40:08.057Z",
+        "latitude": 51.759964,
+        "longitude": -1.2572393,
+        "confidence": 23.673887,
+        "temperature": 7.3,
+        "battery": 4.13,
+        "id": 8
+    },
+    {
+        "datetime": "2021-11-22T12:40:09.032Z",
+        "latitude": 51.760303,
+        "longitude": -1.2574346,
+        "confidence": 23.82921,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 9
+    },
+    {
+        "datetime": "2021-11-22T12:40:10.043Z",
+        "latitude": 51.760345,
+        "longitude": -1.2571963,
+        "confidence": 24.960545,
+        "temperature": 7.5,
+        "battery": 4.13,
+        "id": 10
+    },
+    {
+        "datetime": "2021-11-22T12:40:11.015Z",
+        "latitude": 51.760136,
+        "longitude": -1.2575667,
+        "confidence": 22.87535,
+        "temperature": 7.2,
+        "battery": 4.13,
+        "id": 11
+    },
+    {
+        "datetime": "2021-11-22T12:40:12.036Z",
+        "latitude": 51.760315,
+        "longitude": -1.2574277,
+        "confidence": 24.87162,
+        "temperature": 7,
+        "battery": 4.13,
+        "id": 12
+    },
+    {
+        "datetime": "2021-11-22T12:40:13.048Z",
+        "latitude": 51.760193,
+        "longitude": -1.2575305,
+        "confidence": 24.958641,
+        "temperature": 7.5,
+        "battery": 4.13,
+        "id": 13
+    },
+    {
+        "datetime": "2021-11-22T12:40:14.038Z",
+        "latitude": 51.76034,
+        "longitude": -1.2574526,
+        "confidence": 27.456425,
+        "temperature": 7.2,
+        "battery": 4.13,
+        "id": 14
+    },
+    {
+        "datetime": "2021-11-22T12:40:15.050Z",
+        "latitude": 51.760254,
+        "longitude": -1.2574786,
+        "confidence": 30.362263,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 15
+    },
+    {
+        "datetime": "2021-11-22T12:40:16.040Z",
+        "latitude": 51.760277,
+        "longitude": -1.2574282,
+        "confidence": 25.46916,
+        "temperature": 7.5,
+        "battery": 4.13,
+        "id": 16
+    },
+    {
+        "datetime": "2021-11-22T12:40:17.030Z",
+        "latitude": 51.760323,
+        "longitude": -1.2575082,
+        "confidence": 26.095436,
+        "temperature": 7,
+        "battery": 4.13,
+        "id": 17
+    },
+    {
+        "datetime": "2021-11-22T12:40:18.051Z",
+        "latitude": 51.76029,
+        "longitude": -1.2573986,
+        "confidence": 28.779486,
+        "temperature": 7.3,
+        "battery": 4.13,
+        "id": 18
+    },
+    {
+        "datetime": "2021-11-22T12:40:19.033Z",
+        "latitude": 51.76029,
+        "longitude": -1.2574999,
+        "confidence": 26.182144,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 19
+    },
+    {
+        "datetime": "2021-11-22T12:40:20.039Z",
+        "latitude": 51.76032,
+        "longitude": -1.2574401,
+        "confidence": 28.778809,
+        "temperature": 7.2,
+        "battery": 4.13,
+        "id": 20
+    },
+    {
+        "datetime": "2021-11-22T12:40:21.021Z",
+        "latitude": 51.76012,
+        "longitude": -1.2576486,
+        "confidence": 25.489607,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 21
+    },
+    {
+        "datetime": "2021-11-22T12:40:22.024Z",
+        "latitude": 51.76009,
+        "longitude": -1.2575116,
+        "confidence": 22.935038,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 22
+    },
+    {
+        "datetime": "2021-11-22T12:40:23.056Z",
+        "latitude": 51.760235,
+        "longitude": -1.2573308,
+        "confidence": 29.802816,
+        "temperature": 7.5,
+        "battery": 4.13,
+        "id": 23
+    },
+    {
+        "datetime": "2021-11-22T12:40:24.019Z",
+        "latitude": 51.760235,
+        "longitude": -1.2574588,
+        "confidence": 27.147573,
+        "temperature": 7.3,
+        "battery": 4.13,
+        "id": 24
+    },
+    {
+        "datetime": "2021-11-22T12:40:25.045Z",
+        "latitude": 51.76046,
+        "longitude": -1.2574482,
+        "confidence": 23.857834,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 25
+    },
+    {
+        "datetime": "2021-11-22T12:40:26.022Z",
+        "latitude": 51.76021,
+        "longitude": -1.2576389,
+        "confidence": 23.339197,
+        "temperature": 7.3,
+        "battery": 4.13,
+        "id": 26
+    },
+    {
+        "datetime": "2021-11-22T12:40:27.045Z",
+        "latitude": 51.76037,
+        "longitude": -1.2575116,
+        "confidence": 23.833664,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 27
+    },
+    {
+        "datetime": "2021-11-22T12:40:28.063Z",
+        "latitude": 51.76023,
+        "longitude": -1.2575251,
+        "confidence": 24.45732,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 28
+    },
+    {
+        "datetime": "2021-11-22T12:40:29.022Z",
+        "latitude": 51.760143,
+        "longitude": -1.257788,
+        "confidence": 24.632483,
+        "temperature": 7.5,
+        "battery": 4.13,
+        "id": 29
+    },
+    {
+        "datetime": "2021-11-22T12:40:30.052Z",
+        "latitude": 51.76041,
+        "longitude": -1.2574853,
+        "confidence": 24.245922,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 30
+    },
+    {
+        "datetime": "2021-11-22T12:40:31.061Z",
+        "latitude": 51.76038,
+        "longitude": -1.25767,
+        "confidence": 38.08424,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 31
+    },
+    {
+        "datetime": "2021-11-22T12:40:32.048Z",
+        "latitude": 51.760254,
+        "longitude": -1.257448,
+        "confidence": 25.047598,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 32
+    },
+    {
+        "datetime": "2021-11-22T12:40:33.042Z",
+        "latitude": 51.76041,
+        "longitude": -1.2573911,
+        "confidence": 23.219067,
+        "temperature": 7.2,
+        "battery": 4.13,
+        "id": 33
+    },
+    {
+        "datetime": "2021-11-22T12:40:34.033Z",
+        "latitude": 51.760223,
+        "longitude": -1.2575959,
+        "confidence": 19.853039,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 34
+    },
+    {
+        "datetime": "2021-11-22T12:40:35.039Z",
+        "latitude": 51.760143,
+        "longitude": -1.2576288,
+        "confidence": 26.255182,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 35
+    },
+    {
+        "datetime": "2021-11-22T12:40:36.045Z",
+        "latitude": 51.76042,
+        "longitude": -1.2574817,
+        "confidence": 24.629223,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 36
+    },
+    {
+        "datetime": "2021-11-22T12:40:37.053Z",
+        "latitude": 51.760254,
+        "longitude": -1.2573848,
+        "confidence": 20.003937,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 37
+    },
+    {
+        "datetime": "2021-11-22T12:40:38.045Z",
+        "latitude": 51.76042,
+        "longitude": -1.2576445,
+        "confidence": 23.833347,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 38
+    },
+    {
+        "datetime": "2021-11-22T12:40:39.046Z",
+        "latitude": 51.76051,
+        "longitude": -1.2575724,
+        "confidence": 21.217606,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 39
+    },
+    {
+        "datetime": "2021-11-22T12:40:40.062Z",
+        "latitude": 51.760384,
+        "longitude": -1.2573843,
+        "confidence": 22.774359,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 40
+    },
+    {
+        "datetime": "2021-11-22T12:40:41.058Z",
+        "latitude": 51.760174,
+        "longitude": -1.2576822,
+        "confidence": 22.879272,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 41
+    },
+    {
+        "datetime": "2021-11-22T12:40:42.040Z",
+        "latitude": 51.76026,
+        "longitude": -1.2575877,
+        "confidence": 27.140507,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 42
+    },
+    {
+        "datetime": "2021-11-22T12:40:43.057Z",
+        "latitude": 51.76024,
+        "longitude": -1.2575097,
+        "confidence": 26.184456,
+        "temperature": 7.5,
+        "battery": 4.13,
+        "id": 43
+    },
+    {
+        "datetime": "2021-11-22T12:40:44.046Z",
+        "latitude": 51.76032,
+        "longitude": -1.2575872,
+        "confidence": 31.781487,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 44
+    },
+    {
+        "datetime": "2021-11-22T12:40:45.048Z",
+        "latitude": 51.760193,
+        "longitude": -1.2575129,
+        "confidence": 31.781548,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 45
+    },
+    {
+        "datetime": "2021-11-22T12:40:46.047Z",
+        "latitude": 51.760265,
+        "longitude": -1.257431,
+        "confidence": 28.620607,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 46
+    },
+    {
+        "datetime": "2021-11-22T12:40:47.052Z",
+        "latitude": 51.760353,
+        "longitude": -1.2577443,
+        "confidence": 23.558922,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 47
+    },
+    {
+        "datetime": "2021-11-22T12:40:48.054Z",
+        "latitude": 51.760357,
+        "longitude": -1.2575064,
+        "confidence": 28.706026,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 48
+    },
+    {
+        "datetime": "2021-11-22T12:40:49.056Z",
+        "latitude": 51.760498,
+        "longitude": -1.2575092,
+        "confidence": 23.909998,
+        "temperature": 7.5,
+        "battery": 4.13,
+        "id": 49
+    },
+    {
+        "datetime": "2021-11-22T12:40:50.054Z",
+        "latitude": 51.76017,
+        "longitude": -1.2575415,
+        "confidence": 23.441961,
+        "temperature": 7.5,
+        "battery": 4.13,
+        "id": 50
+    },
+    {
+        "datetime": "2021-11-22T12:40:51.062Z",
+        "latitude": 51.760387,
+        "longitude": -1.2573402,
+        "confidence": 25.067305,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 51
+    },
+    {
+        "datetime": "2021-11-22T12:40:52.068Z",
+        "latitude": 51.760323,
+        "longitude": -1.2574712,
+        "confidence": 23.567535,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 52
+    },
+    {
+        "datetime": "2021-11-22T12:40:53.039Z",
+        "latitude": 51.760456,
+        "longitude": -1.2576084,
+        "confidence": 32.27678,
+        "temperature": 7.6,
+        "battery": 4.14,
+        "id": 53
+    },
+    {
+        "datetime": "2021-11-22T12:40:54.055Z",
+        "latitude": 51.760406,
+        "longitude": -1.2575315,
+        "confidence": 23.559145,
+        "temperature": 7.5,
+        "battery": 4.13,
+        "id": 54
+    },
+    {
+        "datetime": "2021-11-22T12:40:55.053Z",
+        "latitude": 51.760365,
+        "longitude": -1.2573272,
+        "confidence": 28.916151,
+        "temperature": 7.3,
+        "battery": 4.13,
+        "id": 55
+    },
+    {
+        "datetime": "2021-11-22T12:40:56.051Z",
+        "latitude": 51.760334,
+        "longitude": -1.2575264,
+        "confidence": 25.988726,
+        "temperature": 7.5,
+        "battery": 4.13,
+        "id": 56
+    },
+    {
+        "datetime": "2021-11-22T12:40:57.068Z",
+        "latitude": 51.760345,
+        "longitude": -1.2574416,
+        "confidence": 24.132906,
+        "temperature": 7.5,
+        "battery": 4.13,
+        "id": 57
+    },
+    {
+        "datetime": "2021-11-22T12:40:58.039Z",
+        "latitude": 51.76032,
+        "longitude": -1.2575681,
+        "confidence": 23.90279,
+        "temperature": 7.5,
+        "battery": 4.13,
+        "id": 58
+    },
+    {
+        "datetime": "2021-11-22T12:40:59.041Z",
+        "latitude": 51.76033,
+        "longitude": -1.2574625,
+        "confidence": 24.317587,
+        "temperature": 7.5,
+        "battery": 4.13,
+        "id": 59
+    },
+    {
+        "datetime": "2021-11-22T12:41:00.049Z",
+        "latitude": 51.76032,
+        "longitude": -1.2575474,
+        "confidence": 24.521486,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 60
+    },
+    {
+        "datetime": "2021-11-22T12:41:01.045Z",
+        "latitude": 51.76028,
+        "longitude": -1.257421,
+        "confidence": 24.489395,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 61
+    },
+    {
+        "datetime": "2021-11-22T12:41:02.049Z",
+        "latitude": 51.760303,
+        "longitude": -1.2572966,
+        "confidence": 24.160862,
+        "temperature": 7.5,
+        "battery": 4.13,
+        "id": 62
+    },
+    {
+        "datetime": "2021-11-22T12:41:03.046Z",
+        "latitude": 51.76044,
+        "longitude": -1.2574855,
+        "confidence": 23.63688,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 63
+    },
+    {
+        "datetime": "2021-11-22T12:41:04.054Z",
+        "latitude": 51.76028,
+        "longitude": -1.2574375,
+        "confidence": 24.097923,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 64
+    },
+    {
+        "datetime": "2021-11-22T12:41:05.050Z",
+        "latitude": 51.76035,
+        "longitude": -1.2573018,
+        "confidence": 24.486025,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 65
+    },
+    {
+        "datetime": "2021-11-22T12:41:06.058Z",
+        "latitude": 51.760406,
+        "longitude": -1.2574278,
+        "confidence": 26.523489,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 66
+    },
+    {
+        "datetime": "2021-11-22T12:41:07.044Z",
+        "latitude": 51.76017,
+        "longitude": -1.257454,
+        "confidence": 24.518278,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 67
+    },
+    {
+        "datetime": "2021-11-22T12:41:08.035Z",
+        "latitude": 51.760326,
+        "longitude": -1.2573752,
+        "confidence": 23.55152,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 68
+    },
+    {
+        "datetime": "2021-11-22T12:41:09.024Z",
+        "latitude": 51.760273,
+        "longitude": -1.25744,
+        "confidence": 24.482674,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 69
+    },
+    {
+        "datetime": "2021-11-22T12:41:10.039Z",
+        "latitude": 51.760303,
+        "longitude": -1.2573688,
+        "confidence": 24.189177,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 70
+    },
+    {
+        "datetime": "2021-11-22T12:41:11.042Z",
+        "latitude": 51.760403,
+        "longitude": -1.257558,
+        "confidence": 28.801144,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 71
+    },
+    {
+        "datetime": "2021-11-22T12:41:12.047Z",
+        "latitude": 51.76046,
+        "longitude": -1.2572789,
+        "confidence": 21.991896,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 72
+    },
+    {
+        "datetime": "2021-11-22T12:41:13.034Z",
+        "latitude": 51.760357,
+        "longitude": -1.2573419,
+        "confidence": 26.589682,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 73
+    },
+    {
+        "datetime": "2021-11-22T12:41:14.057Z",
+        "latitude": 51.76038,
+        "longitude": -1.257177,
+        "confidence": 28.161823,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 74
+    },
+    {
+        "datetime": "2021-11-22T12:41:15.046Z",
+        "latitude": 51.76033,
+        "longitude": -1.257444,
+        "confidence": 24.506195,
+        "temperature": 7.3,
+        "battery": 4.13,
+        "id": 75
+    },
+    {
+        "datetime": "2021-11-22T12:41:16.050Z",
+        "latitude": 51.760384,
+        "longitude": -1.2570872,
+        "confidence": 26.519073,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 76
+    },
+    {
+        "datetime": "2021-11-22T12:41:17.067Z",
+        "latitude": 51.76015,
+        "longitude": -1.2573057,
+        "confidence": 23.162802,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 77
+    },
+    {
+        "datetime": "2021-11-22T12:41:18.059Z",
+        "latitude": 51.76049,
+        "longitude": -1.2574717,
+        "confidence": 24.918055,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 78
+    },
+    {
+        "datetime": "2021-11-22T12:41:19.050Z",
+        "latitude": 51.760334,
+        "longitude": -1.2573724,
+        "confidence": 24.509926,
+        "temperature": 7.3,
+        "battery": 4.13,
+        "id": 79
+    },
+    {
+        "datetime": "2021-11-22T12:41:20.016Z",
+        "latitude": 51.76053,
+        "longitude": -1.2576457,
+        "confidence": 23.824022,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 80
+    },
+    {
+        "datetime": "2021-11-22T12:41:21.031Z",
+        "latitude": 51.76053,
+        "longitude": -1.2575628,
+        "confidence": 24.628563,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 81
+    },
+    {
+        "datetime": "2021-11-22T12:41:22.047Z",
+        "latitude": 51.76066,
+        "longitude": -1.2572991,
+        "confidence": 24.297127,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 82
+    },
+    {
+        "datetime": "2021-11-22T12:41:23.025Z",
+        "latitude": 51.760395,
+        "longitude": -1.2575259,
+        "confidence": 19.854456,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 83
+    },
+    {
+        "datetime": "2021-11-22T12:41:24.050Z",
+        "latitude": 51.760487,
+        "longitude": -1.2573496,
+        "confidence": 24.295294,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 84
+    },
+    {
+        "datetime": "2021-11-22T12:41:25.064Z",
+        "latitude": 51.760513,
+        "longitude": -1.2572693,
+        "confidence": 25.024187,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 85
+    },
+    {
+        "datetime": "2021-11-22T12:41:26.052Z",
+        "latitude": 51.760227,
+        "longitude": -1.2573311,
+        "confidence": 23.531862,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 86
+    },
+    {
+        "datetime": "2021-11-22T12:41:27.029Z",
+        "latitude": 51.76046,
+        "longitude": -1.2575268,
+        "confidence": 23.822514,
+        "temperature": 7.3,
+        "battery": 4.13,
+        "id": 87
+    },
+    {
+        "datetime": "2021-11-22T12:41:28.057Z",
+        "latitude": 51.760296,
+        "longitude": -1.2575271,
+        "confidence": 28.234034,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 88
+    },
+    {
+        "datetime": "2021-11-22T12:41:29.057Z",
+        "latitude": 51.760056,
+        "longitude": -1.2575284,
+        "confidence": 23.337278,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 89
+    },
+    {
+        "datetime": "2021-11-22T12:41:30.039Z",
+        "latitude": 51.760475,
+        "longitude": -1.2574164,
+        "confidence": 24.29005,
+        "temperature": 7.5,
+        "battery": 4.13,
+        "id": 90
+    },
+    {
+        "datetime": "2021-11-22T12:41:31.064Z",
+        "latitude": 51.760506,
+        "longitude": -1.2572798,
+        "confidence": 23.599354,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 91
+    },
+    {
+        "datetime": "2021-11-22T12:41:32.053Z",
+        "latitude": 51.7602,
+        "longitude": -1.2576019,
+        "confidence": 27.344126,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 92
+    },
+    {
+        "datetime": "2021-11-22T12:41:33.040Z",
+        "latitude": 51.760624,
+        "longitude": -1.2575772,
+        "confidence": 21.320137,
+        "temperature": 7.5,
+        "battery": 4.13,
+        "id": 93
+    },
+    {
+        "datetime": "2021-11-22T12:41:34.039Z",
+        "latitude": 51.760376,
+        "longitude": -1.257518,
+        "confidence": 23.153631,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 94
+    },
+    {
+        "datetime": "2021-11-22T12:41:35.045Z",
+        "latitude": 51.760513,
+        "longitude": -1.2575179,
+        "confidence": 23.152906,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 95
+    },
+    {
+        "datetime": "2021-11-22T12:41:36.049Z",
+        "latitude": 51.760506,
+        "longitude": -1.2573135,
+        "confidence": 23.290998,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 96
+    },
+    {
+        "datetime": "2021-11-22T12:41:37.042Z",
+        "latitude": 51.76036,
+        "longitude": -1.2574359,
+        "confidence": 26.034685,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 97
+    },
+    {
+        "datetime": "2021-11-22T12:41:38.037Z",
+        "latitude": 51.760456,
+        "longitude": -1.2576807,
+        "confidence": 24.662333,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 98
+    },
+    {
+        "datetime": "2021-11-22T12:41:39.058Z",
+        "latitude": 51.760445,
+        "longitude": -1.257567,
+        "confidence": 26.628473,
+        "temperature": 7.3,
+        "battery": 4.13,
+        "id": 99
+    },
+    {
+        "datetime": "2021-11-22T12:41:40.047Z",
+        "latitude": 51.760303,
+        "longitude": -1.25754,
+        "confidence": 25.017775,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 100
+    },
+    {
+        "datetime": "2021-11-22T12:41:41.056Z",
+        "latitude": 51.760395,
+        "longitude": -1.2574999,
+        "confidence": 23.000605,
+        "temperature": 7.3,
+        "battery": 4.13,
+        "id": 101
+    },
+    {
+        "datetime": "2021-11-22T12:41:42.080Z",
+        "latitude": 51.760468,
+        "longitude": -1.2571568,
+        "confidence": 29.763088,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 102
+    },
+    {
+        "datetime": "2021-11-22T12:41:43.059Z",
+        "latitude": 51.76053,
+        "longitude": -1.2574612,
+        "confidence": 28.753242,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 103
+    },
+    {
+        "datetime": "2021-11-22T12:41:44.033Z",
+        "latitude": 51.760372,
+        "longitude": -1.2577791,
+        "confidence": 26.190023,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 104
+    },
+    {
+        "datetime": "2021-11-22T12:41:45.042Z",
+        "latitude": 51.760483,
+        "longitude": -1.2575959,
+        "confidence": 24.452518,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 105
+    },
+    {
+        "datetime": "2021-11-22T12:41:46.044Z",
+        "latitude": 51.76044,
+        "longitude": -1.2575698,
+        "confidence": 21.97007,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 106
+    },
+    {
+        "datetime": "2021-11-22T12:41:47.038Z",
+        "latitude": 51.760464,
+        "longitude": -1.2576433,
+        "confidence": 22.589596,
+        "temperature": 7.5,
+        "battery": 4.13,
+        "id": 107
+    },
+    {
+        "datetime": "2021-11-22T12:41:48.046Z",
+        "latitude": 51.760498,
+        "longitude": -1.2574002,
+        "confidence": 24.450014,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 108
+    },
+    {
+        "datetime": "2021-11-22T12:41:49.056Z",
+        "latitude": 51.760635,
+        "longitude": -1.2572688,
+        "confidence": 24.348244,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 109
+    },
+    {
+        "datetime": "2021-11-22T12:41:50.081Z",
+        "latitude": 51.760506,
+        "longitude": -1.257504,
+        "confidence": 28.571589,
+        "temperature": 7.5,
+        "battery": 4.13,
+        "id": 110
+    },
+    {
+        "datetime": "2021-11-22T12:41:51.056Z",
+        "latitude": 51.76053,
+        "longitude": -1.2574679,
+        "confidence": 24.553467,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 111
+    },
+    {
+        "datetime": "2021-11-22T12:41:52.055Z",
+        "latitude": 51.760353,
+        "longitude": -1.2574174,
+        "confidence": 25.012617,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 112
+    },
+    {
+        "datetime": "2021-11-22T12:41:53.034Z",
+        "latitude": 51.76044,
+        "longitude": -1.257495,
+        "confidence": 28.565271,
+        "temperature": 8.4,
+        "battery": 4.13,
+        "id": 113
+    },
+    {
+        "datetime": "2021-11-22T12:41:54.065Z",
+        "latitude": 51.76056,
+        "longitude": -1.257551,
+        "confidence": 28.79107,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 114
+    },
+    {
+        "datetime": "2021-11-22T12:41:55.052Z",
+        "latitude": 51.76037,
+        "longitude": -1.2573992,
+        "confidence": 23.949436,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 115
+    },
+    {
+        "datetime": "2021-11-22T12:41:56.053Z",
+        "latitude": 51.760464,
+        "longitude": -1.2575072,
+        "confidence": 24.025032,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 116
+    },
+    {
+        "datetime": "2021-11-22T12:41:57.057Z",
+        "latitude": 51.760635,
+        "longitude": -1.257289,
+        "confidence": 25.7896,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 117
+    },
+    {
+        "datetime": "2021-11-22T12:41:58.049Z",
+        "latitude": 51.760464,
+        "longitude": -1.2573557,
+        "confidence": 28.554468,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 118
+    },
+    {
+        "datetime": "2021-11-22T12:41:59.063Z",
+        "latitude": 51.760536,
+        "longitude": -1.2574173,
+        "confidence": 31.78292,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 119
+    },
+    {
+        "datetime": "2021-11-22T12:42:00.059Z",
+        "latitude": 51.760464,
+        "longitude": -1.257437,
+        "confidence": 28.550085,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 120
+    },
+    {
+        "datetime": "2021-11-22T12:42:01.070Z",
+        "latitude": 51.760418,
+        "longitude": -1.257306,
+        "confidence": 24.648619,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 121
+    },
+    {
+        "datetime": "2021-11-22T12:42:02.041Z",
+        "latitude": 51.760487,
+        "longitude": -1.2575057,
+        "confidence": 24.438358,
+        "temperature": 7.3,
+        "battery": 4.13,
+        "id": 122
+    },
+    {
+        "datetime": "2021-11-22T12:42:03.040Z",
+        "latitude": 51.760483,
+        "longitude": -1.2573013,
+        "confidence": 23.00819,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 123
+    },
+    {
+        "datetime": "2021-11-22T12:42:04.049Z",
+        "latitude": 51.760357,
+        "longitude": -1.2572113,
+        "confidence": 28.746857,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 124
+    },
+    {
+        "datetime": "2021-11-22T12:42:05.062Z",
+        "latitude": 51.760555,
+        "longitude": -1.2573761,
+        "confidence": 23.024084,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 125
+    },
+    {
+        "datetime": "2021-11-22T12:42:06.056Z",
+        "latitude": 51.760426,
+        "longitude": -1.2574033,
+        "confidence": 22.651312,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 126
+    },
+    {
+        "datetime": "2021-11-22T12:42:07.042Z",
+        "latitude": 51.760464,
+        "longitude": -1.2573657,
+        "confidence": 28.745989,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 127
+    },
+    {
+        "datetime": "2021-11-22T12:42:08.035Z",
+        "latitude": 51.760437,
+        "longitude": -1.2573509,
+        "confidence": 24.433424,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 128
+    },
+    {
+        "datetime": "2021-11-22T12:42:09.062Z",
+        "latitude": 51.76054,
+        "longitude": -1.2571992,
+        "confidence": 29.067177,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 129
+    },
+    {
+        "datetime": "2021-11-22T12:42:10.046Z",
+        "latitude": 51.760307,
+        "longitude": -1.2573333,
+        "confidence": 28.745085,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 130
+    },
+    {
+        "datetime": "2021-11-22T12:42:11.016Z",
+        "latitude": 51.760395,
+        "longitude": -1.2573712,
+        "confidence": 27.10428,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 131
+    },
+    {
+        "datetime": "2021-11-22T12:42:12.035Z",
+        "latitude": 51.7604,
+        "longitude": -1.2573942,
+        "confidence": 26.191412,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 132
+    },
+    {
+        "datetime": "2021-11-22T12:42:13.064Z",
+        "latitude": 51.76052,
+        "longitude": -1.2571788,
+        "confidence": 23.59336,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 133
+    },
+    {
+        "datetime": "2021-11-22T12:42:14.052Z",
+        "latitude": 51.76046,
+        "longitude": -1.257235,
+        "confidence": 22.154474,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 134
+    },
+    {
+        "datetime": "2021-11-22T12:42:15.043Z",
+        "latitude": 51.76054,
+        "longitude": -1.2574416,
+        "confidence": 19.44357,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 135
+    },
+    {
+        "datetime": "2021-11-22T12:42:16.040Z",
+        "latitude": 51.760277,
+        "longitude": -1.2573897,
+        "confidence": 21.192482,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 136
+    },
+    {
+        "datetime": "2021-11-22T12:42:17.053Z",
+        "latitude": 51.760612,
+        "longitude": -1.2572618,
+        "confidence": 25.002068,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 137
+    },
+    {
+        "datetime": "2021-11-22T12:42:18.047Z",
+        "latitude": 51.76041,
+        "longitude": -1.2572968,
+        "confidence": 22.696882,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 138
+    },
+    {
+        "datetime": "2021-11-22T12:42:19.042Z",
+        "latitude": 51.760384,
+        "longitude": -1.2574621,
+        "confidence": 24.246588,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 139
+    },
+    {
+        "datetime": "2021-11-22T12:42:20.039Z",
+        "latitude": 51.76045,
+        "longitude": -1.2574742,
+        "confidence": 21.845945,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 140
+    },
+    {
+        "datetime": "2021-11-22T12:42:21.030Z",
+        "latitude": 51.760517,
+        "longitude": -1.2573249,
+        "confidence": 19.856138,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 141
+    },
+    {
+        "datetime": "2021-11-22T12:42:22.037Z",
+        "latitude": 51.760506,
+        "longitude": -1.2573469,
+        "confidence": 25.000002,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 142
+    },
+    {
+        "datetime": "2021-11-22T12:42:23.064Z",
+        "latitude": 51.760376,
+        "longitude": -1.2574192,
+        "confidence": 19.69085,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 143
+    },
+    {
+        "datetime": "2021-11-22T12:42:24.036Z",
+        "latitude": 51.7606,
+        "longitude": -1.2575163,
+        "confidence": 24.337921,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 144
+    },
+    {
+        "datetime": "2021-11-22T12:42:25.045Z",
+        "latitude": 51.76043,
+        "longitude": -1.2574472,
+        "confidence": 26.193535,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 145
+    },
+    {
+        "datetime": "2021-11-22T12:42:26.055Z",
+        "latitude": 51.760498,
+        "longitude": -1.2573415,
+        "confidence": 28.740229,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 146
+    },
+    {
+        "datetime": "2021-11-22T12:42:27.048Z",
+        "latitude": 51.76053,
+        "longitude": -1.2572789,
+        "confidence": 26.193663,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 147
+    },
+    {
+        "datetime": "2021-11-22T12:42:28.052Z",
+        "latitude": 51.76049,
+        "longitude": -1.2576395,
+        "confidence": 25.133892,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 148
+    },
+    {
+        "datetime": "2021-11-22T12:42:29.042Z",
+        "latitude": 51.760544,
+        "longitude": -1.2574122,
+        "confidence": 26.381325,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 149
+    },
+    {
+        "datetime": "2021-11-22T12:42:30.057Z",
+        "latitude": 51.760548,
+        "longitude": -1.2574911,
+        "confidence": 26.161404,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 150
+    },
+    {
+        "datetime": "2021-11-22T12:42:31.039Z",
+        "latitude": 51.760513,
+        "longitude": -1.2576019,
+        "confidence": 22.594048,
+        "temperature": 8.4,
+        "battery": 4.13,
+        "id": 151
+    },
+    {
+        "datetime": "2021-11-22T12:42:32.050Z",
+        "latitude": 51.760536,
+        "longitude": -1.2574067,
+        "confidence": 22.234495,
+        "temperature": 8.4,
+        "battery": 4.13,
+        "id": 152
+    },
+    {
+        "datetime": "2021-11-22T12:42:33.048Z",
+        "latitude": 51.760666,
+        "longitude": -1.2573565,
+        "confidence": 24.627663,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 153
+    },
+    {
+        "datetime": "2021-11-22T12:42:34.057Z",
+        "latitude": 51.760593,
+        "longitude": -1.2575557,
+        "confidence": 31.550877,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 154
+    },
+    {
+        "datetime": "2021-11-22T12:42:35.036Z",
+        "latitude": 51.760715,
+        "longitude": -1.2577506,
+        "confidence": 31.783232,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 155
+    },
+    {
+        "datetime": "2021-11-22T12:42:36.054Z",
+        "latitude": 51.76058,
+        "longitude": -1.2574462,
+        "confidence": 28.472498,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 156
+    },
+    {
+        "datetime": "2021-11-22T12:42:37.058Z",
+        "latitude": 51.760612,
+        "longitude": -1.2572227,
+        "confidence": 23.067944,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 157
+    },
+    {
+        "datetime": "2021-11-22T12:42:38.043Z",
+        "latitude": 51.760536,
+        "longitude": -1.2574428,
+        "confidence": 22.754995,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 158
+    },
+    {
+        "datetime": "2021-11-22T12:42:39.045Z",
+        "latitude": 51.76053,
+        "longitude": -1.2572552,
+        "confidence": 24.4076,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 159
+    },
+    {
+        "datetime": "2021-11-22T12:42:40.062Z",
+        "latitude": 51.760715,
+        "longitude": -1.2572244,
+        "confidence": 28.736042,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 160
+    },
+    {
+        "datetime": "2021-11-22T12:42:41.063Z",
+        "latitude": 51.76058,
+        "longitude": -1.2573947,
+        "confidence": 20.37068,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 161
+    },
+    {
+        "datetime": "2021-11-22T12:42:42.060Z",
+        "latitude": 51.76066,
+        "longitude": -1.2572027,
+        "confidence": 24.693789,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 162
+    },
+    {
+        "datetime": "2021-11-22T12:42:43.067Z",
+        "latitude": 51.760582,
+        "longitude": -1.2571542,
+        "confidence": 27.853376,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 163
+    },
+    {
+        "datetime": "2021-11-22T12:42:44.058Z",
+        "latitude": 51.760647,
+        "longitude": -1.2572873,
+        "confidence": 28.455393,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 164
+    },
+    {
+        "datetime": "2021-11-22T12:42:45.042Z",
+        "latitude": 51.76054,
+        "longitude": -1.2573733,
+        "confidence": 23.160448,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 165
+    },
+    {
+        "datetime": "2021-11-22T12:42:46.051Z",
+        "latitude": 51.760403,
+        "longitude": -1.2572224,
+        "confidence": 28.45105,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 166
+    },
+    {
+        "datetime": "2021-11-22T12:42:47.049Z",
+        "latitude": 51.76065,
+        "longitude": -1.2572892,
+        "confidence": 22.95291,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 167
+    },
+    {
+        "datetime": "2021-11-22T12:42:48.044Z",
+        "latitude": 51.76048,
+        "longitude": -1.2571843,
+        "confidence": 24.22102,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 168
+    },
+    {
+        "datetime": "2021-11-22T12:42:49.057Z",
+        "latitude": 51.76061,
+        "longitude": -1.2572516,
+        "confidence": 26.278889,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 169
+    },
+    {
+        "datetime": "2021-11-22T12:42:50.055Z",
+        "latitude": 51.76049,
+        "longitude": -1.2572073,
+        "confidence": 22.50155,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 170
+    },
+    {
+        "datetime": "2021-11-22T12:42:51.054Z",
+        "latitude": 51.760468,
+        "longitude": -1.257363,
+        "confidence": 21.7053,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 171
+    },
+    {
+        "datetime": "2021-11-22T12:42:52.040Z",
+        "latitude": 51.76055,
+        "longitude": -1.257464,
+        "confidence": 25.105679,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 172
+    },
+    {
+        "datetime": "2021-11-22T12:42:53.029Z",
+        "latitude": 51.760666,
+        "longitude": -1.2573215,
+        "confidence": 22.542446,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 173
+    },
+    {
+        "datetime": "2021-11-22T12:42:54.057Z",
+        "latitude": 51.760563,
+        "longitude": -1.2571635,
+        "confidence": 23.15294,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 174
+    },
+    {
+        "datetime": "2021-11-22T12:42:55.061Z",
+        "latitude": 51.76058,
+        "longitude": -1.2572198,
+        "confidence": 23.230755,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 175
+    },
+    {
+        "datetime": "2021-11-22T12:42:56.046Z",
+        "latitude": 51.760532,
+        "longitude": -1.257236,
+        "confidence": 23.844942,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 176
+    },
+    {
+        "datetime": "2021-11-22T12:42:57.053Z",
+        "latitude": 51.760506,
+        "longitude": -1.257112,
+        "confidence": 22.649557,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 177
+    },
+    {
+        "datetime": "2021-11-22T12:42:58.057Z",
+        "latitude": 51.76058,
+        "longitude": -1.257236,
+        "confidence": 23.958813,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 178
+    },
+    {
+        "datetime": "2021-11-22T12:42:59.058Z",
+        "latitude": 51.760555,
+        "longitude": -1.2572638,
+        "confidence": 23.750116,
+        "temperature": 8.6,
+        "battery": 4.13,
+        "id": 179
+    },
+    {
+        "datetime": "2021-11-22T12:43:00.061Z",
+        "latitude": 51.7607,
+        "longitude": -1.2571965,
+        "confidence": 23.74055,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 180
+    },
+    {
+        "datetime": "2021-11-22T12:43:01.045Z",
+        "latitude": 51.760628,
+        "longitude": -1.2571944,
+        "confidence": 23.747826,
+        "temperature": 8.4,
+        "battery": 4.13,
+        "id": 181
+    },
+    {
+        "datetime": "2021-11-22T12:43:02.038Z",
+        "latitude": 51.76044,
+        "longitude": -1.2573351,
+        "confidence": 23.491188,
+        "temperature": 8.4,
+        "battery": 4.13,
+        "id": 182
+    },
+    {
+        "datetime": "2021-11-22T12:43:03.044Z",
+        "latitude": 51.76047,
+        "longitude": -1.2572137,
+        "confidence": 24.494287,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 183
+    },
+    {
+        "datetime": "2021-11-22T12:43:04.029Z",
+        "latitude": 51.760567,
+        "longitude": -1.2574565,
+        "confidence": 26.466446,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 184
+    },
+    {
+        "datetime": "2021-11-22T12:43:05.052Z",
+        "latitude": 51.76058,
+        "longitude": -1.2572209,
+        "confidence": 27.848648,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 185
+    },
+    {
+        "datetime": "2021-11-22T12:43:06.055Z",
+        "latitude": 51.760532,
+        "longitude": -1.2571579,
+        "confidence": 26.127743,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 186
+    },
+    {
+        "datetime": "2021-11-22T12:43:07.056Z",
+        "latitude": 51.760517,
+        "longitude": -1.257047,
+        "confidence": 26.126785,
+        "temperature": 8.4,
+        "battery": 4.13,
+        "id": 187
+    },
+    {
+        "datetime": "2021-11-22T12:43:08.056Z",
+        "latitude": 51.760677,
+        "longitude": -1.2571564,
+        "confidence": 24.943636,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 188
+    },
+    {
+        "datetime": "2021-11-22T12:43:09.061Z",
+        "latitude": 51.76052,
+        "longitude": -1.2570742,
+        "confidence": 26.154898,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 189
+    },
+    {
+        "datetime": "2021-11-22T12:43:10.033Z",
+        "latitude": 51.760353,
+        "longitude": -1.2573519,
+        "confidence": 24.902426,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 190
+    },
+    {
+        "datetime": "2021-11-22T12:43:11.063Z",
+        "latitude": 51.760536,
+        "longitude": -1.2571118,
+        "confidence": 24.926283,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 191
+    },
+    {
+        "datetime": "2021-11-22T12:43:12.044Z",
+        "latitude": 51.76051,
+        "longitude": -1.2571579,
+        "confidence": 24.92587,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 192
+    },
+    {
+        "datetime": "2021-11-22T12:43:13.068Z",
+        "latitude": 51.76041,
+        "longitude": -1.2570765,
+        "confidence": 24.925312,
+        "temperature": 8.4,
+        "battery": 4.13,
+        "id": 193
+    },
+    {
+        "datetime": "2021-11-22T12:43:14.062Z",
+        "latitude": 51.76052,
+        "longitude": -1.2571282,
+        "confidence": 27.11373,
+        "temperature": 8.4,
+        "battery": 4.13,
+        "id": 194
+    },
+    {
+        "datetime": "2021-11-22T12:43:15.056Z",
+        "latitude": 51.76048,
+        "longitude": -1.2571962,
+        "confidence": 25.20472,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 195
+    },
+    {
+        "datetime": "2021-11-22T12:43:16.040Z",
+        "latitude": 51.760532,
+        "longitude": -1.2572186,
+        "confidence": 24.196344,
+        "temperature": 8.6,
+        "battery": 4.13,
+        "id": 196
+    },
+    {
+        "datetime": "2021-11-22T12:43:17.063Z",
+        "latitude": 51.76055,
+        "longitude": -1.257226,
+        "confidence": 23.913877,
+        "temperature": 7.6,
+        "battery": 4.13,
+        "id": 197
+    },
+    {
+        "datetime": "2021-11-22T12:43:18.059Z",
+        "latitude": 51.760468,
+        "longitude": -1.2571777,
+        "confidence": 21.181679,
+        "temperature": 8.4,
+        "battery": 4.13,
+        "id": 198
+    },
+    {
+        "datetime": "2021-11-22T12:43:19.066Z",
+        "latitude": 51.76066,
+        "longitude": -1.2570882,
+        "confidence": 25.448069,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 199
+    },
+    {
+        "datetime": "2021-11-22T12:43:20.044Z",
+        "latitude": 51.760555,
+        "longitude": -1.2572056,
+        "confidence": 24.664845,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 200
+    },
+    {
+        "datetime": "2021-11-22T12:43:21.061Z",
+        "latitude": 51.760494,
+        "longitude": -1.2571048,
+        "confidence": 24.845915,
+        "temperature": 8.6,
+        "battery": 4.13,
+        "id": 201
+    },
+    {
+        "datetime": "2021-11-22T12:43:22.043Z",
+        "latitude": 51.76044,
+        "longitude": -1.2572212,
+        "confidence": 24.832891,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 202
+    },
+    {
+        "datetime": "2021-11-22T12:43:23.033Z",
+        "latitude": 51.760387,
+        "longitude": -1.2572819,
+        "confidence": 24.832117,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 203
+    },
+    {
+        "datetime": "2021-11-22T12:43:24.044Z",
+        "latitude": 51.76046,
+        "longitude": -1.2573931,
+        "confidence": 26.193182,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 204
+    },
+    {
+        "datetime": "2021-11-22T12:43:25.069Z",
+        "latitude": 51.76059,
+        "longitude": -1.2571362,
+        "confidence": 27.09745,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 205
+    },
+    {
+        "datetime": "2021-11-22T12:43:26.062Z",
+        "latitude": 51.76037,
+        "longitude": -1.257265,
+        "confidence": 24.103113,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 206
+    },
+    {
+        "datetime": "2021-11-22T12:43:27.051Z",
+        "latitude": 51.76041,
+        "longitude": -1.2570621,
+        "confidence": 23.072134,
+        "temperature": 8.4,
+        "battery": 4.13,
+        "id": 207
+    },
+    {
+        "datetime": "2021-11-22T12:43:28.044Z",
+        "latitude": 51.76033,
+        "longitude": -1.2571195,
+        "confidence": 22.00378,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 208
+    },
+    {
+        "datetime": "2021-11-22T12:43:29.034Z",
+        "latitude": 51.76045,
+        "longitude": -1.2571746,
+        "confidence": 26.142315,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 209
+    },
+    {
+        "datetime": "2021-11-22T12:43:30.053Z",
+        "latitude": 51.76037,
+        "longitude": -1.2570534,
+        "confidence": 25.731535,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 210
+    },
+    {
+        "datetime": "2021-11-22T12:43:31.058Z",
+        "latitude": 51.760437,
+        "longitude": -1.2572311,
+        "confidence": 21.404028,
+        "temperature": 8.6,
+        "battery": 4.13,
+        "id": 211
+    },
+    {
+        "datetime": "2021-11-22T12:43:32.072Z",
+        "latitude": 51.760483,
+        "longitude": -1.2570838,
+        "confidence": 23.754503,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 212
+    },
+    {
+        "datetime": "2021-11-22T12:43:33.063Z",
+        "latitude": 51.760437,
+        "longitude": -1.2571295,
+        "confidence": 25.72979,
+        "temperature": 8.4,
+        "battery": 4.13,
+        "id": 213
+    },
+    {
+        "datetime": "2021-11-22T12:43:34.041Z",
+        "latitude": 51.760338,
+        "longitude": -1.2572193,
+        "confidence": 25.729197,
+        "temperature": 8.4,
+        "battery": 4.13,
+        "id": 214
+    },
+    {
+        "datetime": "2021-11-22T12:43:35.049Z",
+        "latitude": 51.760418,
+        "longitude": -1.2571547,
+        "confidence": 25.533043,
+        "temperature": 8.6,
+        "battery": 4.13,
+        "id": 215
+    },
+    {
+        "datetime": "2021-11-22T12:43:36.050Z",
+        "latitude": 51.76031,
+        "longitude": -1.2572231,
+        "confidence": 23.095648,
+        "temperature": 8.4,
+        "battery": 4.13,
+        "id": 216
+    },
+    {
+        "datetime": "2021-11-22T12:43:37.055Z",
+        "latitude": 51.76037,
+        "longitude": -1.2572126,
+        "confidence": 21.202948,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 217
+    },
+    {
+        "datetime": "2021-11-22T12:43:38.058Z",
+        "latitude": 51.760372,
+        "longitude": -1.2570361,
+        "confidence": 20.796698,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 218
+    },
+    {
+        "datetime": "2021-11-22T12:43:39.065Z",
+        "latitude": 51.76053,
+        "longitude": -1.2570419,
+        "confidence": 20.914112,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 219
+    },
+    {
+        "datetime": "2021-11-22T12:43:40.059Z",
+        "latitude": 51.760307,
+        "longitude": -1.2572428,
+        "confidence": 22.463327,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 220
+    },
+    {
+        "datetime": "2021-11-22T12:43:41.041Z",
+        "latitude": 51.760494,
+        "longitude": -1.2570946,
+        "confidence": 30.583746,
+        "temperature": 8.4,
+        "battery": 4.13,
+        "id": 221
+    },
+    {
+        "datetime": "2021-11-22T12:43:42.058Z",
+        "latitude": 51.760483,
+        "longitude": -1.2570249,
+        "confidence": 23.333782,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 222
+    },
+    {
+        "datetime": "2021-11-22T12:43:43.056Z",
+        "latitude": 51.760365,
+        "longitude": -1.2572092,
+        "confidence": 21.218086,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 223
+    },
+    {
+        "datetime": "2021-11-22T12:43:44.052Z",
+        "latitude": 51.76044,
+        "longitude": -1.2569817,
+        "confidence": 20.589354,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 224
+    },
+    {
+        "datetime": "2021-11-22T12:43:45.055Z",
+        "latitude": 51.760376,
+        "longitude": -1.257098,
+        "confidence": 19.808712,
+        "temperature": 8.4,
+        "battery": 4.13,
+        "id": 225
+    },
+    {
+        "datetime": "2021-11-22T12:43:46.061Z",
+        "latitude": 51.760395,
+        "longitude": -1.2570529,
+        "confidence": 18.679642,
+        "temperature": 8.6,
+        "battery": 4.13,
+        "id": 226
+    },
+    {
+        "datetime": "2021-11-22T12:43:47.037Z",
+        "latitude": 51.760452,
+        "longitude": -1.2570629,
+        "confidence": 20.589338,
+        "temperature": 8.6,
+        "battery": 4.13,
+        "id": 227
+    },
+    {
+        "datetime": "2021-11-22T12:43:48.035Z",
+        "latitude": 51.760433,
+        "longitude": -1.2569948,
+        "confidence": 19.833996,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 228
+    },
+    {
+        "datetime": "2021-11-22T12:43:49.033Z",
+        "latitude": 51.760353,
+        "longitude": -1.2570634,
+        "confidence": 24.938538,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 229
+    },
+    {
+        "datetime": "2021-11-22T12:43:50.065Z",
+        "latitude": 51.76039,
+        "longitude": -1.25707,
+        "confidence": 24.483963,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 230
+    },
+    {
+        "datetime": "2021-11-22T12:43:51.045Z",
+        "latitude": 51.760437,
+        "longitude": -1.2570059,
+        "confidence": 20.67747,
+        "temperature": 8.6,
+        "battery": 4.13,
+        "id": 231
+    },
+    {
+        "datetime": "2021-11-22T12:43:52.065Z",
+        "latitude": 51.760338,
+        "longitude": -1.257001,
+        "confidence": 22.22433,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 232
+    },
+    {
+        "datetime": "2021-11-22T12:43:53.044Z",
+        "latitude": 51.760242,
+        "longitude": -1.2570614,
+        "confidence": 23.323826,
+        "temperature": 8.4,
+        "battery": 4.13,
+        "id": 233
+    },
+    {
+        "datetime": "2021-11-22T12:43:54.066Z",
+        "latitude": 51.76016,
+        "longitude": -1.2569158,
+        "confidence": 19.201973,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 234
+    },
+    {
+        "datetime": "2021-11-22T12:43:55.067Z",
+        "latitude": 51.760326,
+        "longitude": -1.257137,
+        "confidence": 20.324625,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 235
+    },
+    {
+        "datetime": "2021-11-22T12:43:56.050Z",
+        "latitude": 51.760315,
+        "longitude": -1.2571423,
+        "confidence": 21.97267,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 236
+    },
+    {
+        "datetime": "2021-11-22T12:43:57.051Z",
+        "latitude": 51.760357,
+        "longitude": -1.2570573,
+        "confidence": 19.42999,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 237
+    },
+    {
+        "datetime": "2021-11-22T12:43:58.053Z",
+        "latitude": 51.760418,
+        "longitude": -1.2570518,
+        "confidence": 20.540401,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 238
+    },
+    {
+        "datetime": "2021-11-22T12:43:59.056Z",
+        "latitude": 51.7603,
+        "longitude": -1.2571267,
+        "confidence": 22.88844,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 239
+    },
+    {
+        "datetime": "2021-11-22T12:44:00.051Z",
+        "latitude": 51.76034,
+        "longitude": -1.2570729,
+        "confidence": 20.459257,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 240
+    },
+    {
+        "datetime": "2021-11-22T12:44:01.016Z",
+        "latitude": 51.761097,
+        "longitude": -1.2575787,
+        "confidence": 23.042854,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 241
+    },
+    {
+        "datetime": "2021-11-22T12:44:02.046Z",
+        "latitude": 51.76039,
+        "longitude": -1.2570302,
+        "confidence": 26.756853,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 242
+    },
+    {
+        "datetime": "2021-11-22T12:44:03.035Z",
+        "latitude": 51.76024,
+        "longitude": -1.2572294,
+        "confidence": 21.510828,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 243
+    },
+    {
+        "datetime": "2021-11-22T12:44:04.061Z",
+        "latitude": 51.760242,
+        "longitude": -1.2570151,
+        "confidence": 22.339235,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 244
+    },
+    {
+        "datetime": "2021-11-22T12:44:05.038Z",
+        "latitude": 51.76036,
+        "longitude": -1.2571802,
+        "confidence": 21.333864,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 245
+    },
+    {
+        "datetime": "2021-11-22T12:44:06.067Z",
+        "latitude": 51.76035,
+        "longitude": -1.2569264,
+        "confidence": 19.771086,
+        "temperature": 8.4,
+        "battery": 4.13,
+        "id": 246
+    },
+    {
+        "datetime": "2021-11-22T12:44:07.042Z",
+        "latitude": 51.760296,
+        "longitude": -1.256997,
+        "confidence": 21.767258,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 247
+    },
+    {
+        "datetime": "2021-11-22T12:44:08.051Z",
+        "latitude": 51.76036,
+        "longitude": -1.2572651,
+        "confidence": 21.393604,
+        "temperature": 8.7,
+        "battery": 4.13,
+        "id": 248
+    },
+    {
+        "datetime": "2021-11-22T12:44:09.019Z",
+        "latitude": 51.760525,
+        "longitude": -1.2573278,
+        "confidence": 21.769361,
+        "temperature": 8.6,
+        "battery": 4.13,
+        "id": 249
+    },
+    {
+        "datetime": "2021-11-22T12:44:10.039Z",
+        "latitude": 51.760414,
+        "longitude": -1.2572707,
+        "confidence": 21.729548,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 250
+    },
+    {
+        "datetime": "2021-11-22T12:44:11.060Z",
+        "latitude": 51.760147,
+        "longitude": -1.2570363,
+        "confidence": 20.316866,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 251
+    },
+    {
+        "datetime": "2021-11-22T12:44:12.076Z",
+        "latitude": 51.760147,
+        "longitude": -1.2570683,
+        "confidence": 21.792526,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 252
+    },
+    {
+        "datetime": "2021-11-22T12:44:13.066Z",
+        "latitude": 51.760223,
+        "longitude": -1.257058,
+        "confidence": 19.892923,
+        "temperature": 8.4,
+        "battery": 4.13,
+        "id": 253
+    },
+    {
+        "datetime": "2021-11-22T12:44:14.041Z",
+        "latitude": 51.760273,
+        "longitude": -1.2572638,
+        "confidence": 21.37998,
+        "temperature": 8.9,
+        "battery": 4.13,
+        "id": 254
+    },
+    {
+        "datetime": "2021-11-22T12:44:15.038Z",
+        "latitude": 51.760345,
+        "longitude": -1.2572056,
+        "confidence": 19.269423,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 255
+    },
+    {
+        "datetime": "2021-11-22T12:44:16.071Z",
+        "latitude": 51.76011,
+        "longitude": -1.2571203,
+        "confidence": 26.413897,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 256
+    },
+    {
+        "datetime": "2021-11-22T12:44:17.054Z",
+        "latitude": 51.76012,
+        "longitude": -1.2571342,
+        "confidence": 21.802628,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 257
+    },
+    {
+        "datetime": "2021-11-22T12:44:18.048Z",
+        "latitude": 51.760166,
+        "longitude": -1.257148,
+        "confidence": 20.256014,
+        "temperature": 8.4,
+        "battery": 4.13,
+        "id": 258
+    },
+    {
+        "datetime": "2021-11-22T12:44:19.056Z",
+        "latitude": 51.75996,
+        "longitude": -1.2570448,
+        "confidence": 20.175995,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 259
+    },
+    {
+        "datetime": "2021-11-22T12:44:20.065Z",
+        "latitude": 51.76015,
+        "longitude": -1.2571465,
+        "confidence": 22.202333,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 260
+    },
+    {
+        "datetime": "2021-11-22T12:44:21.077Z",
+        "latitude": 51.759945,
+        "longitude": -1.2571489,
+        "confidence": 20.115395,
+        "temperature": 8.4,
+        "battery": 4.13,
+        "id": 261
+    },
+    {
+        "datetime": "2021-11-22T12:44:22.058Z",
+        "latitude": 51.760082,
+        "longitude": -1.25726,
+        "confidence": 21.812847,
+        "temperature": 8.4,
+        "battery": 4.13,
+        "id": 262
+    },
+    {
+        "datetime": "2021-11-22T12:44:23.033Z",
+        "latitude": 51.760075,
+        "longitude": -1.2574604,
+        "confidence": 19.301191,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 263
+    },
+    {
+        "datetime": "2021-11-22T12:44:24.053Z",
+        "latitude": 51.760174,
+        "longitude": -1.2572057,
+        "confidence": 22.280764,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 264
+    },
+    {
+        "datetime": "2021-11-22T12:44:25.058Z",
+        "latitude": 51.760166,
+        "longitude": -1.2572249,
+        "confidence": 21.180126,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 265
+    },
+    {
+        "datetime": "2021-11-22T12:44:26.044Z",
+        "latitude": 51.760265,
+        "longitude": -1.2572548,
+        "confidence": 20.929808,
+        "temperature": 8.4,
+        "battery": 4.13,
+        "id": 266
+    },
+    {
+        "datetime": "2021-11-22T12:44:27.071Z",
+        "latitude": 51.760075,
+        "longitude": -1.2571993,
+        "confidence": 24.248188,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 267
+    },
+    {
+        "datetime": "2021-11-22T12:44:28.045Z",
+        "latitude": 51.760307,
+        "longitude": -1.2572548,
+        "confidence": 24.110685,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 268
+    },
+    {
+        "datetime": "2021-11-22T12:44:29.045Z",
+        "latitude": 51.760193,
+        "longitude": -1.2572843,
+        "confidence": 23.409637,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 269
+    },
+    {
+        "datetime": "2021-11-22T12:44:30.066Z",
+        "latitude": 51.76012,
+        "longitude": -1.2572178,
+        "confidence": 22.364119,
+        "temperature": 8.4,
+        "battery": 4.13,
+        "id": 270
+    },
+    {
+        "datetime": "2021-11-22T12:44:31.046Z",
+        "latitude": 51.76005,
+        "longitude": -1.2573247,
+        "confidence": 20.216316,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 271
+    },
+    {
+        "datetime": "2021-11-22T12:44:32.043Z",
+        "latitude": 51.760223,
+        "longitude": -1.2574718,
+        "confidence": 23.951876,
+        "temperature": 8.4,
+        "battery": 4.13,
+        "id": 272
+    },
+    {
+        "datetime": "2021-11-22T12:44:33.049Z",
+        "latitude": 51.7601,
+        "longitude": -1.2573324,
+        "confidence": 26.330776,
+        "temperature": 8.6,
+        "battery": 4.13,
+        "id": 273
+    },
+    {
+        "datetime": "2021-11-22T12:44:34.043Z",
+        "latitude": 51.76015,
+        "longitude": -1.2574954,
+        "confidence": 23.083069,
+        "temperature": 8.4,
+        "battery": 4.13,
+        "id": 274
+    },
+    {
+        "datetime": "2021-11-22T12:44:35.039Z",
+        "latitude": 51.760082,
+        "longitude": -1.2572021,
+        "confidence": 23.745827,
+        "temperature": 8.4,
+        "battery": 4.13,
+        "id": 275
+    },
+    {
+        "datetime": "2021-11-22T12:44:36.049Z",
+        "latitude": 51.76006,
+        "longitude": -1.2573671,
+        "confidence": 23.41282,
+        "temperature": 8.4,
+        "battery": 4.13,
+        "id": 276
+    },
+    {
+        "datetime": "2021-11-22T12:44:37.060Z",
+        "latitude": 51.76011,
+        "longitude": -1.2572415,
+        "confidence": 23.413305,
+        "temperature": 8.4,
+        "battery": 4.13,
+        "id": 277
+    },
+    {
+        "datetime": "2021-11-22T12:44:38.058Z",
+        "latitude": 51.76017,
+        "longitude": -1.2574762,
+        "confidence": 24.56607,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 278
+    },
+    {
+        "datetime": "2021-11-22T12:44:39.036Z",
+        "latitude": 51.760323,
+        "longitude": -1.2573144,
+        "confidence": 26.54312,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 279
+    },
+    {
+        "datetime": "2021-11-22T12:44:40.031Z",
+        "latitude": 51.760113,
+        "longitude": -1.2575262,
+        "confidence": 28.268883,
+        "temperature": 8.4,
+        "battery": 4.13,
+        "id": 280
+    },
+    {
+        "datetime": "2021-11-22T12:44:41.043Z",
+        "latitude": 51.760147,
+        "longitude": -1.257382,
+        "confidence": 21.245071,
+        "temperature": 8.6,
+        "battery": 4.13,
+        "id": 281
+    },
+    {
+        "datetime": "2021-11-22T12:44:42.061Z",
+        "latitude": 51.760162,
+        "longitude": -1.2573346,
+        "confidence": 23.960148,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 282
+    },
+    {
+        "datetime": "2021-11-22T12:44:43.045Z",
+        "latitude": 51.760246,
+        "longitude": -1.2574022,
+        "confidence": 24.739525,
+        "temperature": 8.4,
+        "battery": 4.13,
+        "id": 283
+    },
+    {
+        "datetime": "2021-11-22T12:44:44.044Z",
+        "latitude": 51.76,
+        "longitude": -1.2574012,
+        "confidence": 22.323238,
+        "temperature": 8.1,
+        "battery": 4.13,
+        "id": 284
+    },
+    {
+        "datetime": "2021-11-22T12:44:45.036Z",
+        "latitude": 51.760197,
+        "longitude": -1.2573954,
+        "confidence": 20.439041,
+        "temperature": 7.5,
+        "battery": 4.13,
+        "id": 285
+    },
+    {
+        "datetime": "2021-11-22T12:44:46.023Z",
+        "latitude": 51.760204,
+        "longitude": -1.257494,
+        "confidence": 23.963366,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 286
+    },
+    {
+        "datetime": "2021-11-22T12:44:47.052Z",
+        "latitude": 51.760242,
+        "longitude": -1.2574215,
+        "confidence": 22.830853,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 287
+    },
+    {
+        "datetime": "2021-11-22T12:44:48.051Z",
+        "latitude": 51.76036,
+        "longitude": -1.2573112,
+        "confidence": 21.847223,
+        "temperature": 8.4,
+        "battery": 4.13,
+        "id": 288
+    },
+    {
+        "datetime": "2021-11-22T12:44:49.066Z",
+        "latitude": 51.759926,
+        "longitude": -1.2571825,
+        "confidence": 21.352005,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 289
+    },
+    {
+        "datetime": "2021-11-22T12:44:50.055Z",
+        "latitude": 51.760227,
+        "longitude": -1.2573838,
+        "confidence": 24.941599,
+        "temperature": 8.6,
+        "battery": 4.13,
+        "id": 290
+    },
+    {
+        "datetime": "2021-11-22T12:44:51.063Z",
+        "latitude": 51.760178,
+        "longitude": -1.257398,
+        "confidence": 21.726114,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 291
+    },
+    {
+        "datetime": "2021-11-22T12:44:52.039Z",
+        "latitude": 51.760082,
+        "longitude": -1.2577229,
+        "confidence": 23.361336,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 292
+    },
+    {
+        "datetime": "2021-11-22T12:44:53.045Z",
+        "latitude": 51.76004,
+        "longitude": -1.257497,
+        "confidence": 26.20544,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 293
+    },
+    {
+        "datetime": "2021-11-22T12:44:54.051Z",
+        "latitude": 51.76015,
+        "longitude": -1.257349,
+        "confidence": 22.578142,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 294
+    },
+    {
+        "datetime": "2021-11-22T12:44:55.032Z",
+        "latitude": 51.759945,
+        "longitude": -1.2575078,
+        "confidence": 21.89447,
+        "temperature": 7.8,
+        "battery": 4.13,
+        "id": 295
+    },
+    {
+        "datetime": "2021-11-22T12:44:56.039Z",
+        "latitude": 51.760223,
+        "longitude": -1.2574621,
+        "confidence": 20.850288,
+        "temperature": 8.6,
+        "battery": 4.13,
+        "id": 296
+    },
+    {
+        "datetime": "2021-11-22T12:44:57.031Z",
+        "latitude": 51.760117,
+        "longitude": -1.257564,
+        "confidence": 22.396286,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 297
+    },
+    {
+        "datetime": "2021-11-22T12:44:58.042Z",
+        "latitude": 51.76012,
+        "longitude": -1.257554,
+        "confidence": 22.117064,
+        "temperature": 8,
+        "battery": 4.13,
+        "id": 298
+    },
+    {
+        "datetime": "2021-11-22T12:44:59.009Z",
+        "latitude": 51.75988,
+        "longitude": -1.2576355,
+        "confidence": 20.687174,
+        "temperature": 8.6,
+        "battery": 4.13,
+        "id": 299
+    },
+    {
+        "datetime": "2021-11-22T12:45:00.015Z",
+        "latitude": 51.76001,
+        "longitude": -1.257662,
+        "confidence": 20.686579,
+        "temperature": 8.3,
+        "battery": 4.13,
+        "id": 300
+    }
+]
