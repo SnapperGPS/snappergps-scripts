@@ -38,3 +38,9 @@ If you have the `pip` package manager, you can install all required packages wit
 | ![Smoothed and animated SnapperGPS track in Google Earth Pro](images/smoothing.png) |
 |:--:| 
 | *Figure 3: Raw high-frequency SnapperGPS track (pink), the same track smoothed with a Rauch-Tung-Striebel smoother (RTS, grey) or Gaussian process regression (GPR, purple), a ground-truth track from a commercial GNSS receiver using RTK (black).* |
+
+### `plot_temperature.py`
+
+| ![Smoothed and animated SnapperGPS track in Google Earth Pro](images/temperature.png) |
+|:--:| 
+| *Figure 4: Temperature recorded with a SnapperGPS receiver over about five hours while cycling and walking.* |
