@@ -31,11 +31,11 @@ from sklearn.gaussian_process.kernels import RBF, ConstantKernel, Matern
 from scipy.spatial import ConvexHull
 
 
-# Set this to create a KML file
-create_kml = True
-
 # Enter directory with JSON files here
 files = glob.glob(os.path.join("", "*.json"))
+
+# Set this to create a KML file
+create_kml = True
 
 
 def _get_dist(e, n):
