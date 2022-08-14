@@ -20,3 +20,21 @@ You need a version of Python 3 on your machine.
 Clone this repository with `git` or download the code.
 
 If you have the `pip` package manager, you can install all required packages with `python -m pip install -r requirements.txt`
+
+## Examples
+
+### `gaussian_process_regression.py`
+
+| ![Smoothed SnapperGPS track and convex hull of SnapperGPS track](images/gaussian-process-regression-convex-hull.png) |
+|:--:| 
+| *Figure 1: Original SnapperGPS track of a sea turtle (left, blue) in comparison to version smoothed with Gaussian process regression (left, orange). The same track (right, blue) with the automatically calculated area covered by the turtle (right, red).* |
+
+| ![Smoothed and animated SnapperGPS track in Google Earth Pro](images/smoothed-animated-kml.png) |
+|:--:| 
+| *Figure 2: Smoothed and animated SnapperGPS track of a sea turtle saved as KML file and displayed in Google Earth Pro.* |
+
+### `smoothing.py`
+
+| ![Smoothed and animated SnapperGPS track in Google Earth Pro](images/smoothing.png) |
+|:--:| 
+| *Figure 3: Raw high-frequency SnapperGPS track (pink), the same track smoothed with a Rauch-Tung-Striebel smoother (RTS, grey) or Gaussian process regression (GPR, purple), and ground-truth track from a commercial GNSS receiver using RTK (black).* |
