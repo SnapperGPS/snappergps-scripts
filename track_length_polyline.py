@@ -19,12 +19,13 @@ import glob
 import os
 
 
+# Enter directory with JSON files here
+files = glob.glob(os.path.join("", "*.json"))
+
+
 def _get_dist(e, n):
     return np.sum(np.linalg.norm(np.array([np.diff(e), np.diff(n)]), axis=0))
 
-
-# Enter directory with JSON files here
-files = glob.glob(os.path.join("", "*.json"))
 
 for file in files:
 
@@ -66,7 +67,7 @@ for file in files:
 
     # Estimate velocity
     vel_poly = dist / (time[-1] - time[0])
-    
+
     # Print velocity
     print(f"Average velocity (polyline): {vel_poly:.2f} m/s")
     print()
