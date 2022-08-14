@@ -37,4 +37,4 @@ If you have the `pip` package manager, you can install all required packages wit
 
 | ![Smoothed and animated SnapperGPS track in Google Earth Pro](images/smoothing.png) |
 |:--:| 
-| *Figure 3: Raw high-frequency SnapperGPS track (pink), the same track smoothed with a Rauch-Tung-Striebel smoother (RTS, grey) or Gaussian process regression (GPR, purple), and ground-truth track from a commercial GNSS receiver using RTK (black).* |
+| *Figure 3: Raw high-frequency SnapperGPS track (pink), the same track smoothed with a Rauch-Tung-Striebel smoother (RTS, grey) or Gaussian process regression (GPR, purple), a ground-truth track from a commercial GNSS receiver using RTK (black).* |
