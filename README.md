@@ -44,3 +44,8 @@ If you have the `pip` package manager, you can install all required packages wit
 | ![Smoothed and animated SnapperGPS track in Google Earth Pro](images/temperature.png) |
 |:--:| 
 | *Figure 4: Temperature recorded with a SnapperGPS receiver over about five hours while cycling and walking.* |
+
+## Acknowledgements
+
+SnapperGPS was funded by an EPSRC IAA Technology Fund (D4D00010-BL14).
+Jonas Beuchert and Amanda Matthes are funded by the EPSRC Centre for Doctoral Training in Autonomous Intelligent Machines and Systems (DFT00350-DF03.01, DFT00350-DF03.05).
