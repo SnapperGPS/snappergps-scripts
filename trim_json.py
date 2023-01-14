@@ -11,7 +11,9 @@ import os
 import numpy as np
 
 # Path to JSON files (adjust)
-files = glob.glob(os.path.join("", "*.json"))
+directory = "/path/to/directory/"
+files = glob.glob(os.path.join(directory, "*.json"))
+
 
 # Set start & end time
 start = np.datetime64('2021-08-22T10:08:00.000')
@@ -44,6 +46,7 @@ for file in files:
     data["snapshots"] = new_snapshots
 
     # Save to new JSON file (pre-pend underscore)
-    with open("_" + file, "w") as fp:
+    base_file_name = os.path.basename(file)
+    with open(os.path.join(directory, "_" + base_file_name), "w") as fp:
 
         json.dump(data, fp, indent=4)
