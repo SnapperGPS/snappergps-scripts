@@ -39,7 +39,7 @@ acceleration_norm = np.linalg.norm(np.array([acceleration_x,
                                              acceleration_y,
                                              acceleration_z]), axis=0)
 
-timestamps = np.arange(len(acceleration_x))
+# timestamps = np.arange(len(acceleration_x))
 
 # Plot accelerations over time
 plt.figure()
